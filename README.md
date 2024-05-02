@@ -1,40 +1,21 @@
-# jsha0625_9103_tut9
+# jsha0625_9103_quiz8
 
-# Header
-## Header
-# **Hola**
-## *Hola in italic*
-*Hola in italic*
+# Here is the reference image of inspiration of what I found **(Part1)**
+# Links
+[Interactive Rubik's Cube](https://cube-j4t2.onrender.com/?cst=87127)
 
-Unordered list
-- item 1
- - Subitem
-  - ## sub
+It's a Rubik's Cube that can be interacted with, I think it's cool to create in 3D through a webpage, the assignment we get are all flat drawings created in 2D, and I want to be able to bring it to life in 3D to give the painting the feeling of coming to life, the feeling of someone being able to touch it easily. People allowed to play with rotating spinning kinds of all functinos.
+# **Screen Shot**
+![Screenshot1](Inspiration/cube1.png)
+![Screenshot1](Inspiration/cube2.png)
 
-  1. Number1
-  2. Number 2
+# Here is how it gonna be fullfilled **(Part2)**
 
-  # Links
-  [What is github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+# Links
+[Assistant Code](https://codepen.io/Dariushhassani/pen/vYWZmpg)
 
-# Images
-from webpage
-
-![A cat](https://placekitten.com/200/300)
-
-# Images
-custom
-
-![A cat](Inspiration/cat.jpg)
-
-# Code Blocks
-backtick:
-`print("Hello world")`
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-# Blockquotes
-> This is a blockquote
+This code breaks the limitations of the 2D plane in the Web rendering, through the coordinate positioning to draw a whole 3D space, and so that the Rubik's Cube can be controlled by the mouse to rotate, I think not only HTML, CSS, or JS, the contents of which are worthy of drawing on the part of the function and construction.
+# **Screen Shot**
+![Screenshot3](Inspiration/html.png)
+![Screenshot4](Inspiration/css.png)
+![Screenshot5](Inspiration/js1.png)
